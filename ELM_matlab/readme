@@ -2,5 +2,7 @@ Extreme learning machine
 
 极限学习机三个测试案例：
 分类：鸢尾花
+分类：MNIST分类
+
 回归，辛烷值预测
 回归：SINC函数回归
